@@ -1,7 +1,7 @@
 
 # Website Coffee Cafena
 
-Bem-vindo ao repositório do **Website Coffee Cafena**! Este projeto é um site visualmente atrativo e interativo, desenvolvido para uma cafeteria. Ele combina visuais ricos, conteúdo envolvente e informações essenciais sobre o café.
+Bem-vindo ao repositório do **Coffee Cafena**! Este projeto é um site de estudo visualmente atrativo, desenvolvido para uma cafeteria fictícia. Ele combina visuais ricos, conteúdo envolvente e informações essenciais sobre o café.
 
 ---
 
